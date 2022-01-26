@@ -23,11 +23,11 @@ print('Sorted from min to max list:', list_of_random)  # Printing of sorted by b
 # Calculate average for even and odd numbers
 even_numbers = []  # Define empty list for even numbers
 odd_numbers = []  # Define empty list for odd numbers
-for i in range(len(list_of_random)):  # Define FOR statement with number of iterations equal to list length
-    if list_of_random[i] % 2 == 0:  # Check if number can be divided by 2 without reminder
-        even_numbers.append(list_of_random[i])  # Adding of even values to separate list
+for number in list_of_random:
+    if number % 2 == 0:  # Check if number can be divided by 2 without reminder
+        even_numbers.append(number)  # Adding of even values to separate list
     else:
-        odd_numbers.append(list_of_random[i])  # Else other values added to odd values list
+        odd_numbers.append(number)  # Else other values added to odd values list
 for i in range(len(even_numbers)):  # Define of FOR statement with range equal to even numbers list length
     total = 0  # Define of variable for calculation of total with 0 value
     total = total + even_numbers[i]  # Calculation of total sum
