@@ -15,10 +15,10 @@ for j in range(1000):  # Define of FOR statement with range of iterations from 0
 print('List with generated random values:', list_of_random)  # Printing final list to console
 
 # Sort list from min to max (without using sort())
-for run in range(len(list_of_random) - 1):  # Define of initial FOR statement with range of iterations minus 1 from list
-    for i in range(len(list_of_random) - 1 - run):  # Inner FOR statement with decreasing iterations for each run
-        if list_of_random[i] > list_of_random[i + 1]:  # Compare two adjacent values from list
-            list_of_random[i], list_of_random[i + 1] = list_of_random[i + 1], list_of_random[i]  # Swap places
+for run in range(len(list_of_random)-1):  # Define of initial FOR statement with range of iterations minus 1 from list
+    for i in range(len(list_of_random)-1-run):  # Inner FOR statement with decreasing iterations for each run
+        if list_of_random[i] > list_of_random[i+1]:  # Compare two adjacent values from list
+            list_of_random[i], list_of_random[i+1] = list_of_random[i+1], list_of_random[i]  # Swap places
 print('Sorted from min to max list:', list_of_random)  # Printing of sorted by bubble sorting list
 # Calculate average for even and odd numbers
 even_numbers = []  # Define empty list for even numbers
