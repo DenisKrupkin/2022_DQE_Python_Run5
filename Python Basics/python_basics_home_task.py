@@ -42,5 +42,5 @@ try:  # Zero division error handling
     odd_average = total / len(odd_numbers)  # Calculation of average odd number
 except ZeroDivisionError:  # In case of zero division error
     print('Zero division error.')  # Printing message
-print('Average count of even numbers:', even_average)  # Printing of average of even numbers to console
-print('Average count of odd numbers:', odd_average)  # Printing of average of odd numbers to console
+print(f'Average count of even numbers: {even_average}.')  # Printing of average of even numbers to console
+print(f'Average count of odd numbers: {odd_average}.')  # Printing of average of odd numbers to console
