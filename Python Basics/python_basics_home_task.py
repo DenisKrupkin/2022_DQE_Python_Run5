@@ -12,14 +12,14 @@ import statistics  # Import of statistics module for using mean() function
 
 # Create list of 100 random numbers from 0 to 1000
 random_numbers = [random.randint(0, 999) for j in range(1000)]  # Creation of list with random numbers via comprehension
-print('List with generated random values:', random_numbers)  # Printing final list to console
+print(f'List with generated random values: {random_numbers}.')  # Printing final list to console
 
 # Sort list from min to max (without using sort())
 for run in range(len(random_numbers)-1):  # Define of initial FOR statement with range of iterations minus 1 from list
     for i in range(len(random_numbers)-1-run):  # Inner FOR statement with decreasing iterations for each run
         if random_numbers[i] > random_numbers[i+1]:  # Compare two adjacent values from list
             random_numbers[i], random_numbers[i+1] = random_numbers[i+1], random_numbers[i]  # Swap places
-print('Sorted from min to max list:', random_numbers)  # Printing of sorted by bubble sorting list
+print(f'Sorted from min to max list: {random_numbers}.')  # Printing of sorted by bubble sorting list
 
 # Calculate average for even and odd numbers
 even_numbers = [number for number in random_numbers if number % 2 == 0]  # Creation of list with even numbers
