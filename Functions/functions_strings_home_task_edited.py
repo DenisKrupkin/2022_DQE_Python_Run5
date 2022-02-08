@@ -26,8 +26,7 @@ def normalize_paragraphs_letters_case(target_text, paragraph_splitter):
     target_text_list = []  # Create list for store normalized sentences
     for sentence in target_text.split('.\n'):  # Split text by paragraphs
         sentence = sentence.strip()  # Delete whitespaces
-        if sentence[0].islower() and sentence[0].isalpha():  # Check is sentence starts with lower case letter
-            sentence = sentence[0].capitalize() + sentence[1:]  # Make first letter in sentence capitalized
+        sentence = sentence[0].capitalize() + sentence[1:]  # Make first letter in sentence capitalized
         target_text_list.append(sentence)  # Add normalized sentence to list
     target_text = f'. {paragraph_splitter}'.join(target_text_list)  # Create normalized final text with paragraphs
     return target_text  # Normalized text with correct letters case
@@ -77,6 +76,8 @@ def calculate_whitespaces(target_text, *whitespaces):
     return count_whitespaces
 
 
+# Global variable to store the text paragraph splitter
+PARAGRAPH_SPLITTER = '\n\n\n\n'
 # Creation of variable as required at home task.
 corrupted_text = """homEwork:
 
@@ -95,13 +96,13 @@ corrupted_text = """homEwork:
   last iz TO calculate nuMber OF Whitespace characteRS in this Tex. caREFULL, not only Spaces, but ALL whitespaces. I got 87."""
 
 # Generate normalized text from variable.
-normalized_text = normalize_paragraphs_letters_case(corrupted_text, '\n\n\n\n')
+normalized_text = normalize_paragraphs_letters_case(corrupted_text, PARAGRAPH_SPLITTER)
 
 # Generate sentence from last words of all sentences.
-generated_sentence = (generate_last_paragraph_words_sentence(normalized_text, '\n\n\n\n'))
+generated_sentence = (generate_last_paragraph_words_sentence(normalized_text, PARAGRAPH_SPLITTER))
 
 # Add sentence to target paragraph in text.
-normalized_text_sentence = add_specified_sentence(generated_sentence, 1, normalized_text, '\n\n\n\n')
+normalized_text_sentence = add_specified_sentence(generated_sentence, 1, normalized_text, PARAGRAPH_SPLITTER)
 
 # Fix specified misspellings in text.
 normalized_text_sentence_fixed_misspell = fix_misspellings(' iz ', ' is ', normalized_text_sentence)
