@@ -13,3 +13,8 @@ This is new article!
 Text author: Denis Krupkin. Symbols count: 16.
 ------------------------------
 
+News -------------------------
+Some publication text.
+Tver city., 2022-03-09 17:23:12
+------------------------------
+

@@ -149,17 +149,16 @@ class Application(News, Advertisement, Article):
         """
         try:
             user_interface = UserInterface()
-            publications_file = open('News_file.txt', 'a')
-            publication_text = user_interface.ask_publication_text()
-            city = user_interface.ask_city()
-            publication_date = datetime.datetime.today().strftime("%Y-%m-%d %H:%M:%S")
-            news = News(city, publication_date, publication_text)
-            publications_file.write(f'{news.news_splitter}\n')
-            publications_file.write(f'{news.publication_text}\n')
-            publications_file.write(f'{news.city}, ')
-            publications_file.write(f'{news.publication_date}\n')
-            publications_file.write(f'{SEPARATOR}')
-            publications_file.close()
+            with open('News_file.txt', 'a') as publications_file:
+                publication_text = user_interface.ask_publication_text()
+                city = user_interface.ask_city()
+                publication_date = datetime.datetime.today().strftime("%Y-%m-%d %H:%M:%S")
+                news = News(city, publication_date, publication_text)
+                publications_file.write(f'{news.news_splitter}\n')
+                publications_file.write(f'{news.publication_text}\n')
+                publications_file.write(f'{news.city}, ')
+                publications_file.write(f'{news.publication_date}\n')
+                publications_file.write(f'{SEPARATOR}')
         except FileNotFoundError:
             print("Target file not found. Please check News_file.txt")
 
@@ -174,16 +173,15 @@ class Application(News, Advertisement, Article):
         """
         try:
             user_interface = UserInterface()
-            publications_file = open('News_file.txt', 'a')
-            publication_text = user_interface.ask_publication_text()
-            expiration_date = user_interface.ask_expiration_date()
-            advertisement = Advertisement(expiration_date, publication_text)
-            publications_file.write(f'{advertisement.advertisement_splitter}\n')
-            publications_file.write(f'{advertisement.publication_text}\n')
-            publications_file.write(f'Actual until: {expiration_date}, ')
-            publications_file.write(f'{advertisement.calculate_expiration_days(expiration_date)} days left\n')
-            publications_file.write(f'{SEPARATOR}')
-            publications_file.close()
+            with open('News_file.txt', 'a') as publications_file:
+                publication_text = user_interface.ask_publication_text()
+                expiration_date = user_interface.ask_expiration_date()
+                advertisement = Advertisement(expiration_date, publication_text)
+                publications_file.write(f'{advertisement.advertisement_splitter}\n')
+                publications_file.write(f'{advertisement.publication_text}\n')
+                publications_file.write(f'Actual until: {expiration_date}, ')
+                publications_file.write(f'{advertisement.calculate_expiration_days(expiration_date)} days left\n')
+                publications_file.write(f'{SEPARATOR}')
         except FileNotFoundError:
             print("Target file not found. Please check News_file.txt")
 
@@ -198,16 +196,15 @@ class Application(News, Advertisement, Article):
         """
         try:
             user_interface = UserInterface()
-            publications_file = open('News_file.txt', 'a')
-            publication_text = user_interface.ask_publication_text()
-            author = user_interface.ask_author()
-            article = Article(publication_text, author)
-            publications_file.write(f'{article.article_splitter}\n')
-            publications_file.write(f'{article.publication_text}\n')
-            publications_file.write(f'Text author: {article.author}. ')
-            publications_file.write(f'Symbols count: {article.calculate_symbols_count(publication_text)}.\n')
-            publications_file.write(f'{SEPARATOR}')
-            publications_file.close()
+            with open('News_file.txt', 'a') as publications_file:
+                publication_text = user_interface.ask_publication_text()
+                author = user_interface.ask_author()
+                article = Article(publication_text, author)
+                publications_file.write(f'{article.article_splitter}\n')
+                publications_file.write(f'{article.publication_text}\n')
+                publications_file.write(f'Text author: {article.author}. ')
+                publications_file.write(f'Symbols count: {article.calculate_symbols_count(publication_text)}.\n')
+                publications_file.write(f'{SEPARATOR}')
         except FileNotFoundError:
             print("Target file not found. Please check News_file.txt")
 
