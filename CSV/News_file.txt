@@ -1,0 +1,15 @@
+News -------------------------
+This is news publication.
+Tver., 2022-03-21 22:43:07
+------------------------------
+
+Private Ad -------------------
+This is advertisement.
+Actual until: 2022-03-28, 7 days left
+------------------------------
+
+Article ----------------------
+This is artice.
+Text author: Denis.. Symbols count: 12.
+------------------------------
+
