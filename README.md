@@ -38,6 +38,7 @@ There are three types of publications supported in v.0.1
 
 PARAMETERS
 ==========
+Use **files_home_task.py** for application starting.
 Publications app should be started with two parameters:
 - --default_path path to file
   This parameter stores path to file in special format (see 4.Input file format). 
