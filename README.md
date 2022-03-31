@@ -50,6 +50,8 @@ Publications app should be started with two parameters:
   "--target_file_path C:\Python\2022_DQE_Python_Run5\Files\News_file.txt"
   Application can be started without one of these parameters or both. 
   But it is recommended to strart with both parametres to avoid any errors.
+  Example:
+  ```C:\Python\2022_DQE_Python_Run5\venv\Scripts\python.exe C:/Python/2022_DQE_Python_Run5/Files/files_home_task.py --default_path               C:\Python\2022_DQE_Python_Run5\Files\example_file.txt --target_file_path C:\Python\2022_DQE_Python_Run5\Files\News_file.txt```
   
 INTERFACE
 ==========
