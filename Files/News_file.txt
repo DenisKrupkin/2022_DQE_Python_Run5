@@ -1,0 +1,730 @@
+News -------------------------
+abracadabA
+tvr, 2022-03-10 22:53:26
+------------------------------
+
+Private Ad -------------------
+bla vla
+Actual until: 2022-03-25, 15 days left
+------------------------------
+
+News -------------------------
+abracadabA
+tvr, 2022-03-10 22:57:00
+------------------------------
+
+Private Ad -------------------
+bla vla
+Actual until: 2022-03-25, 15 days left
+------------------------------
+
+News -------------------------
+abracadabA
+tvr, 2022-03-10 23:08:29
+------------------------------
+
+Private Ad -------------------
+bla vla
+Actual until: 2022-03-25, 15 days left
+------------------------------
+
+News -------------------------
+abracadabA
+tvr, 2022-03-10 23:12:05
+------------------------------
+
+Private Ad -------------------
+bla vla
+Actual until: 2022-03-25, 15 days left
+------------------------------
+
+Article ----------------------
+txt
+Text author: Fergus. Symbols count: 3.
+------------------------------
+
+Article ----------------------
+dkgjhdfkhgdfkghd
+Text author: fghdgh. Symbols count: 16.
+------------------------------
+
+News -------------------------
+first_news
+tvr1, 2022-03-10 23:15:16
+------------------------------
+
+Private Ad -------------------
+first_adv
+Actual until: 2022-03-25, 15 days left
+------------------------------
+
+Article ----------------------
+first_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+second_news
+tvr2, 2022-03-10 23:15:16
+------------------------------
+
+Private Ad -------------------
+second_adv
+Actual until: 2022-03-25, 15 days left
+------------------------------
+
+Article ----------------------
+second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+first_news
+tvr1, 2022-03-12 15:24:48
+------------------------------
+
+Private Ad -------------------
+first_adv
+Actual until: 2022-03-25, 13 days left
+------------------------------
+
+Article ----------------------
+first_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+second_news
+tvr2, 2022-03-12 15:24:48
+------------------------------
+
+Private Ad -------------------
+second_adv
+Actual until: 2022-03-25, 13 days left
+------------------------------
+
+Article ----------------------
+second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+first_news
+tvr1, 2022-03-12 15:42:13
+------------------------------
+
+Private Ad -------------------
+first_adv
+Actual until: 2022-03-25, 13 days left
+------------------------------
+
+Article ----------------------
+first_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+second_news
+tvr2, 2022-03-12 15:42:13
+------------------------------
+
+Private Ad -------------------
+second_adv
+Actual until: 2022-03-25, 13 days left
+------------------------------
+
+Article ----------------------
+second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+First news. This id normalized text.
+tvr1, 2022-03-12 18:05:36
+------------------------------
+
+Private Ad -------------------
+first news. tHIs id normalized TExt.
+Actual until: 2022-03-25, 13 days left
+------------------------------
+
+Article ----------------------
+first news. tHIs id normalized TExt.
+Text author: Fergus1. Symbols count: 29.
+------------------------------
+
+News -------------------------
+Second news. This id normalized text.
+tvr2, 2022-03-12 18:05:36
+------------------------------
+
+Private Ad -------------------
+seCond Advertisement. tHIs id normalized TExt.
+Actual until: 2022-03-25, 13 days left
+------------------------------
+
+Article ----------------------
+seCond Article. tHIs id normalized TExt.
+Text author: Fergus2. Symbols count: 33.
+------------------------------
+
+Private Ad -------------------
+This is advertisement. It is second sentece.
+Actual until: 2022-03-26, 14 days left
+------------------------------
+
+News -------------------------
+First_news
+tvr1, 2022-03-12 18:52:35
+------------------------------
+
+Private Ad -------------------
+First_adv
+Actual until: 2022-03-25, 13 days left
+------------------------------
+
+Article ----------------------
+First_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news
+tvr2, 2022-03-12 18:52:35
+------------------------------
+
+Private Ad -------------------
+Second_adv
+Actual until: 2022-03-25, 13 days left
+------------------------------
+
+Article ----------------------
+Second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+This is text of news.
+Tvr, 2022-03-28 20:16:23
+------------------------------
+
+News -------------------------
+First_news
+tvr1, 2022-03-28 20:18:17
+------------------------------
+
+Private Ad -------------------
+First_adv
+Actual until: 2022-03-25, -3 days left
+------------------------------
+
+Article ----------------------
+First_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news
+tvr2, 2022-03-28 20:18:17
+------------------------------
+
+Private Ad -------------------
+Second_adv
+Actual until: 2022-03-25, -3 days left
+------------------------------
+
+Article ----------------------
+Second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+First_news
+tvr1, 2022-03-28 20:19:32
+------------------------------
+
+Private Ad -------------------
+First_adv
+Actual until: 2022-03-25, -3 days left
+------------------------------
+
+Article ----------------------
+First_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news
+tvr2, 2022-03-28 20:19:32
+------------------------------
+
+Private Ad -------------------
+Second_adv
+Actual until: 2022-03-25, -3 days left
+------------------------------
+
+Article ----------------------
+Second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+Article ----------------------
+This is my favorite article.
+Text author: Den. Symbols count: 23.
+------------------------------
+
+News -------------------------
+First_news
+tvr1, 2022-03-28 20:24:51
+------------------------------
+
+Private Ad -------------------
+First_adv
+Actual until: 2022-03-25, -3 days left
+------------------------------
+
+Article ----------------------
+First_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news
+tvr2, 2022-03-28 20:24:51
+------------------------------
+
+Private Ad -------------------
+Second_adv
+Actual until: 2022-03-25, -3 days left
+------------------------------
+
+Article ----------------------
+Second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+First_news
+tvr1, 2022-03-28 21:00:33
+------------------------------
+
+Private Ad -------------------
+First_adv
+Actual until: 2022-03-25, -3 days left
+------------------------------
+
+Article ----------------------
+First_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news
+tvr2, 2022-03-28 21:00:33
+------------------------------
+
+Private Ad -------------------
+Second_adv
+Actual until: 2022-03-25, -3 days left
+------------------------------
+
+Article ----------------------
+Second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+First_news
+tvr1, 2022-03-28 21:05:35
+------------------------------
+
+Private Ad -------------------
+First_adv
+Actual until: 2022-03-25, -3 days left
+------------------------------
+
+Article ----------------------
+First_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news
+tvr2, 2022-03-28 21:05:35
+------------------------------
+
+Private Ad -------------------
+Second_adv
+Actual until: 2022-03-25, -3 days left
+------------------------------
+
+Article ----------------------
+Second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+First_news
+tvr1, 2022-03-28 22:13:59
+------------------------------
+
+Private Ad -------------------
+First_adv
+Actual until: 2022-03-25, -3 days left
+------------------------------
+
+Article ----------------------
+First_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news
+tvr2, 2022-03-28 22:13:59
+------------------------------
+
+Private Ad -------------------
+Second_adv
+Actual until: 2022-03-25, -3 days left
+------------------------------
+
+Article ----------------------
+Second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+First_news
+tvr1, 2022-03-29 09:40:55
+------------------------------
+
+Private Ad -------------------
+First_adv
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+First_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news
+tvr2, 2022-03-29 09:40:55
+------------------------------
+
+Private Ad -------------------
+Second_adv
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+Second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+Private Ad -------------------
+Advert text.
+Actual until: 2022-03-31, 2 days left
+------------------------------
+
+News -------------------------
+First_news
+tvr1, 2022-03-29 21:39:35
+------------------------------
+
+Private Ad -------------------
+First_adv
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+First_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news
+tvr2, 2022-03-29 21:39:35
+------------------------------
+
+Private Ad -------------------
+Second_adv
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+Second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+This is text of public
+tver, 2022-03-29 22:18:30
+------------------------------
+
+News -------------------------
+First_news
+tvr1, 2022-03-29 22:22:39
+------------------------------
+
+Private Ad -------------------
+First_adv
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+First_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news
+tvr2, 2022-03-29 22:22:39
+------------------------------
+
+Private Ad -------------------
+Second_adv
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+Second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+First_news
+tvr1", 2022-03-29 22:36:21
+------------------------------
+
+Private Ad -------------------
+First_adv
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+First_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news
+tvr2", 2022-03-29 22:36:21
+------------------------------
+
+Private Ad -------------------
+Second_adv
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+Second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+First_news
+tvr1, 2022-03-29 22:38:14
+------------------------------
+
+Private Ad -------------------
+First_adv
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+First_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news
+tvr2, 2022-03-29 22:38:14
+------------------------------
+
+Private Ad -------------------
+Second_adv
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+Second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+First_news
+tvr1, 2022-03-29 22:46:36
+------------------------------
+
+Private Ad -------------------
+First_adv
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+First_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news
+tvr2, 2022-03-29 22:46:36
+------------------------------
+
+Private Ad -------------------
+Second_adv
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+Second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+First_news
+tvr1, 2022-03-29 22:47:07
+------------------------------
+
+Private Ad -------------------
+First_adv
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+First_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news
+tvr2, 2022-03-29 22:47:07
+------------------------------
+
+Private Ad -------------------
+Second_adv
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+Second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+Ddddd
+dddd, 2022-03-29 22:49:19
+------------------------------
+
+News -------------------------
+First_news.
+tvr1, 2022-03-29 22:49:26
+------------------------------
+
+Private Ad -------------------
+First_adv
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+First_arc
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news.
+tvr2, 2022-03-29 22:49:26
+------------------------------
+
+Private Ad -------------------
+Second_adv
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+Second_art
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+First_news.
+tvr1, 2022-03-29 23:12:01
+------------------------------
+
+Private Ad -------------------
+First_adv.
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+First_arc.
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news.
+tvr2, 2022-03-29 23:12:01
+------------------------------
+
+Private Ad -------------------
+Second_adv.
+Actual until: 2022-03-25, -4 days left
+------------------------------
+
+Article ----------------------
+Second_art.
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+Private Ad -------------------
+Adadad
+Actual until: 2022-03-31, 2 days left
+------------------------------
+
+Article ----------------------
+Art
+Text author: den. Symbols count: 3.
+------------------------------
+
+News -------------------------
+Werw
+ssd, 2022-03-30 22:47:03
+------------------------------
+
+News -------------------------
+First_news.
+tvr1, 2022-03-30 22:47:29
+------------------------------
+
+Private Ad -------------------
+First_adv.
+Actual until: 2022-03-25, -5 days left
+------------------------------
+
+Article ----------------------
+First_arc.
+Text author: Fergus1. Symbols count: 8.
+------------------------------
+
+News -------------------------
+Second_news.
+tvr2, 2022-03-30 22:47:29
+------------------------------
+
+Private Ad -------------------
+Second_adv.
+Actual until: 2022-03-25, -5 days left
+------------------------------
+
+Article ----------------------
+Second_art.
+Text author: Fergus2. Symbols count: 9.
+------------------------------
+
+News -------------------------
+Test
+Test, 2022-03-31 19:47:59
+------------------------------
+
