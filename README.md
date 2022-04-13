@@ -1,6 +1,6 @@
 # 2022_DQE_Python_Run5
 
-PUBLICATIONS v.0.1
+PUBLICATIONS v.0.2
 ====================================
 
 1. Introduction
@@ -9,6 +9,7 @@ PUBLICATIONS v.0.1
 4. Interface
 5. Input file format
 6. Output file format
+7. Statistics module
 
 INTRODUCTION
 =============
@@ -130,3 +131,26 @@ Text author: Fergus1. Symbols count: 8.
 ------------------------------ 
 ```
 This format is incompatible for loading to application.
+
+STATISTICS MODULE
+=================
+Added in version 0.2.
+After finishing all publications application creates statistics by words in CSV format in words_statistics.csv and statistics by letters in letters_statistics.csv in directory with main application file.
+Words statistics contains all unique words in lowercase with count. Letters statistics contains letter, total count of letter, count of letter in upper case and percentage of letter in file.
+
+words_statistics.csv example:
+ ```
+ news,116
+ abracadaba,4
+ tvr,5
+ private,55
+  ...
+ ```
+letters_statistics.csv example:
+  ```
+  letter,letter_total,letter_upper_total,letter_percentage
+ a,516,171,9.41
+ b,66,0,1.2
+ c,264,2,4.82
+  ...
+  ```
