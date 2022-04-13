@@ -1,0 +1,6 @@
+"News"; "first_news."; "tvr1".
+"Advertisement"; "first_adv"; "2022-03-25".
+"Article"; "first_arc"; "Fergus1".
+"News"; "second_news"; "tvr2".
+"Advertisement"; "second_adv"; "2022-03-25".
+"Article"; "second_art"; "Fergus2".
